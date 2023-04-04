@@ -1,0 +1,11 @@
+ Scanner klv = new Scanner(System.in);
+//        System.out.println("lutfen ussu alinacak sayiyi giriniz");
+//        int sayi = klv.nextInt();
+//        System.out.println("kacinci ussunu almak istersiniz");
+//        int us = klv.nextInt();
+//        int carpim = 1;
+//        for (int i = 1; i < us; i--) {
+//            carpim = carpim * sayi;
+//            
+//        }
+//        System.out.println("uslu sayi sonucu" + carpim);
